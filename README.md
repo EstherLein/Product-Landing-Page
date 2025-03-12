@@ -4,14 +4,14 @@ includes a subscription form for customers to receive updates.
 
 ## Features:
 
-Navigation Bar: Includes links to different sections of the page (Features, Our Beans, Pricing)
+**-Navigation Bar:** Includes links to different sections of the page (Features, Our Beans, Pricing)
 
-Subscription Form: Allows users to enter their email and subscribe
+**-Subscription Form**
 
-Product Features Section: Highlights fast shipping, premium coffee beans, and quality assurance
+**-Product Features Section:** Highlights fast shipping, premium coffee beans, and quality assurance
 
-Embedded Video: Features a YouTube video about coffee
+**-Embedded Video**
 
-Product Cards: Displays available coffee products with images, descriptions, and prices
+**-Product Cards:** Displays available coffee products with images, descriptions, and prices
 
-Footer: Copyright information
+#### Check out the project here: [Live Demo](https://estherlein.github.io/Personal-Portfolio-Webpage/)
