@@ -14,4 +14,4 @@ includes a subscription form for customers to receive updates.
 
 **-Product Cards:** Displays available coffee products with images, descriptions, and prices
 
-#### Check out the project here: [Live Demo](https://estherlein.github.io/Personal-Portfolio-Webpage/)
+#### Check out the project here: [Live Demo](https://estherlein.github.io/Product-Landing-Page/)
